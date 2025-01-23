@@ -2,13 +2,12 @@
 # Hi there 👋  
 
 ## 👩‍💻 About Me  
-I’m [Your Name], a [Your Profession/Role] from [Your Location]!  
-- 🌱 I’m currently learning **[Technologies/Skills You Are Learning]**  
-- 🚀 I’m passionate about **[Your Interests, e.g., Web Development, Data Science, etc.]**  
-- 🌍 You can find my portfolio at **[Your Portfolio Website URL]**  
+I’m Mahesa Putra, a student from Bali, Indonesia!  
+- 🌱 I’m currently learning Laravel
+- 🚀 I’m passionate about Web Development and Desainer 
 
 ## 📫 Get in Touch  
-- Email: [Your Email Address]  
+- Email: @wahhesa69@gmamil.com  
 - LinkedIn: [Your LinkedIn Profile URL]  
 - Website: [Your Website or Blog]  
 
